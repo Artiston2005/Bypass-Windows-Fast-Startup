@@ -1,5 +1,11 @@
 # Bypass-Windows-Fast-Startup
-A lightweight Windows batch script that bypasses Fast Startup by performing a true full shutdown. Displays a short ASCII progress animation before powering off, with an optional .exe version and custom icon for a cleaner look.
+A lightweight Windows batch script made to temporarily bypass Fast Startup by performing a true full shutdown. 
+
+## For Bat file
+The batch file instantly performs a full shutdown.
+
+## For Executable file
+The executible file displays a 3 second short ASCII progress animation before powering off and custom icon for a cleaner look.
 
 ## Features
 - Console-based ASCII progress bar
