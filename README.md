@@ -5,7 +5,7 @@ A lightweight Windows batch script made to temporarily bypass Fast Startup by pe
 The batch file instantly performs a full shutdown.
 
 ### For Executable file `Full Shutdown.exe`
-The executible file displays a 3 second short ASCII progress animation before powering off and custom icon for a cleaner look.
+The executible file displays a 3 second short ASCII progress animation before powering off and has a custom icon for a cleaner look.
 
 ## Features
 - Console-based ASCII progress bar
